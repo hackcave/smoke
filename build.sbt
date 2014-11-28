@@ -2,9 +2,9 @@ name := "smoke"
 
 organization := "com.mdialog"
 
-version := "2.1.1"
+version := "2.1.2-SNAPSHOT"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.11.4"
 
 crossScalaVersions := Seq("2.10.4", "2.11.0")
 
